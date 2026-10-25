@@ -32,6 +32,8 @@ Jumlah Antrian: 4
 4 : Jep
 
 === 1 Peserta Dipanggil ===
+Peserta dipanggil: Faqih
+
 === Antrian Saat Ini ===
 Jumlah Antrian: 3
 1 : Jovan

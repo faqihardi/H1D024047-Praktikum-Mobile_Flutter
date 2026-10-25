@@ -75,9 +75,9 @@ void main() {
   antrianBpjs.printQueue();
 
   print("\n=== 1 Peserta Dipanggil ===");
-  antrianBpjs.dequeue();
+  print("Peserta dipanggil: ${antrianBpjs.dequeue()}");
 
-  print("=== Antrian Saat Ini ===");
+  print("\n=== Antrian Saat Ini ===");
   print("Jumlah Antrian: ${antrianBpjs.size}");
   antrianBpjs.printQueue();
 }
